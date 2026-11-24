@@ -1,4 +1,4 @@
-package FlowTrack;
+package io.github.makuyajr.flowtrack;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
